@@ -10,7 +10,7 @@
 * [Использовать библиотеку Mockito](https://github.com/RTimoshkow/Afisha/tree/layers)
 * [Работать с исключениями и тестировать их](https://github.com/RTimoshkow/INH)
 * [Использовать Selenide](https://github.com/RTimoshkow/Selenide)
-* [Работать с Cucumber](https://github.com/RTimoshkow/Cucumber)
+* [Использовать Cucumber](https://github.com/RTimoshkow/Cucumber)
 
 **JavaSсript**
 * [Обрабатывать исключения](https://github.com/RTimoshkow/bjs-2-homeworks/tree/main/6.exception-closure)
