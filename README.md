@@ -9,7 +9,7 @@
 * [Выстраивать процесс непрерывной интеграции](https://github.com/RTimoshkow/syndrome_100_percent)
 * [Использовать библиотеку Mockito](https://github.com/RTimoshkow/Afisha/tree/layers)
 * [Работать с исключениями и тестировать их](https://github.com/RTimoshkow/INH)
-* [Использовать Selenium, Selenide](https://github.com/RTimoshkow/Selenide)
+* [Использовать Selenide](https://github.com/RTimoshkow/Selenide)
 * [Работать с Cucumber](https://github.com/RTimoshkow/Cucumber)
 
 **JavaSсript**
