@@ -4,7 +4,7 @@
 
 ## Вот, чему я уже научился:
 
-**Java**
+* [Работать с циклами](https://github.com/RTimoshkow/purchase_statistics)
 * [Писать параметризованные тесты](https://github.com/RTimoshkow/Radio)
 * [Выстраивать процесс непрерывной интеграции](https://github.com/RTimoshkow/syndrome_100_percent)
 * [Использовать библиотеку Mockito](https://github.com/RTimoshkow/Afisha/tree/layers)
@@ -12,11 +12,7 @@
 * [Использовать Selenide](https://github.com/RTimoshkow/Selenide)
 * [Использовать Cucumber](https://github.com/RTimoshkow/Cucumber)
 
-**JavaSсript**
-* [Обрабатывать исключения](https://github.com/RTimoshkow/bjs-2-homeworks/tree/main/6.exception-closure)
-* [Работать с асинхронностью](https://github.com/RTimoshkow/bjs-2-homeworks/tree/main/7.async)
-* [Использовать для тестирования Jest и Playwright](https://github.com/RTimoshkow/Playwright)
-* [Использовать jest-puppeteer](https://github.com/RTimoshkow/jsaqa-code/tree/main/7.4/puppeteer)
+
 
 ## Мои сертификаты
 * [Ручное тестирование веб-приложений](https://drive.google.com/file/d/1XN7ORp2zxweuWlXee4ekhXwSymNeMSml/view?usp=sharing)
@@ -36,4 +32,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+**JavaSсript**
+* [Обрабатывать исключения](https://github.com/RTimoshkow/bjs-2-homeworks/tree/main/6.exception-closure)
+* [Работать с асинхронностью](https://github.com/RTimoshkow/bjs-2-homeworks/tree/main/7.async)
+* [Использовать для тестирования Jest и Playwright](https://github.com/RTimoshkow/Playwright)
+* [Использовать jest-puppeteer](https://github.com/RTimoshkow/jsaqa-code/tree/main/7.4/puppeteer)
 -->
